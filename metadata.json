@@ -1,0 +1,8 @@
+{
+  "name": "Enactus Flow",
+  "description": "A purpose-built project and task management system for Enactus society leadership and members, featuring role-based access, hierarchical task tracking, and AI-driven performance insights.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
